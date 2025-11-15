@@ -1,4 +1,16 @@
 ---
-title: "personal-web"
+title: "Gianna Kim"
+image: selfie.png
+about:
+    template: trestles
+    links:
+       - text: Github
+         href: 'https://github.com/giaari15'
+       - text: LinkedIn
+         url: 'https://www.linkedin.com/in/giaari15/'
+       - text: Email
+         url: 'mailto:gianna.ari.kim.love@gmail.com'
+       - text: Resume
+         url: "Resume_Gianna_Kim.pdf"
 ---
 
